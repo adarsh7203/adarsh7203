@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="./banner.png" alt="Adarsh Gupta Banner" width="100%" />
-
-<br><br>
 
 <div align="center">
 

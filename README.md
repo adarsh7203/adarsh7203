@@ -4,7 +4,7 @@
 
 ### Competitive Programmer • Full Stack Developer • AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=1246%2B+Problems+Solved;CodeChef+3★+(Max+1633);Codeforces+Pupil;Building+Developer+Tools;React+%7C+FastAPI+%7C+C%2B%2B;Always+Learning+Something+New" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=1246%2B+Problems+Solved;CodeChef+3★+(Max+1633);Codeforces+Pupil;Building+Developer+Tools;React+%7C+FastAPI+%7C+C%2B%2B;Always+Learning+Something+New" /> -->
 
 <p align="center">
 I enjoy solving algorithmic challenges, building full-stack applications, and creating developer tools that solve real-world problems.
@@ -55,8 +55,6 @@ public:
 ---
 
 # 🏆 Competitive Programming
-
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh7203&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 ### 💻 Highlights
 
@@ -223,36 +221,6 @@ Interactive visualization platform with modern UI.
 # 📌 Developer Philosophy
 
 > "I believe the best way to learn is by building products and solving challenging problems."
-
----
-
-# 📂 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/adarsh7203/CF-UpsolveX">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh7203&repo=CF-UpsolveX&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/adarsh7203/SkillFolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh7203&repo=SkillFolio&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/adarsh7203/Graphify">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh7203&repo=Graphify&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/adarsh7203/IET-HRMS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh7203&repo=IET-HRMS&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
 
 ---
 

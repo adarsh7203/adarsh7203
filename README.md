@@ -121,7 +121,7 @@ public:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarsh7203&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=adarsh7203&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/> -->
 
 <img height="170" src="https://streak-stats.demolab.com?user=adarsh7203&theme=tokyonight&hide_border=true"/>
 

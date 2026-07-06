@@ -56,7 +56,7 @@ public:
 
 # 🏆 Competitive Programming
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh7203&layout=compact&theme=github_dark"/>
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh7203&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 ### 💻 Highlights
 
@@ -94,11 +94,11 @@ public:
 
 ---
 
-## ⭐ Codeforces Tag Filter
+## ⭐ IET-HRMS
 
-Chrome Extension that enhances Codeforces with advanced tag, rating and solved problem filters.
+A modern HR management system developed for institutional use with a responsive interface and backend integration.
 
-`JavaScript` `Chrome API`
+`JavaScript`
 
 ---
 
@@ -166,9 +166,9 @@ Interactive visualization platform with modern UI.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adarsh7203&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarsh7203&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh7203&theme=github-dark-blue&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=adarsh7203&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -176,7 +176,7 @@ Interactive visualization platform with modern UI.
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh7203&theme=github-compact&hide_border=true"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh7203&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -230,12 +230,12 @@ Interactive visualization platform with modern UI.
 
 <div align="center">
 
-<a href="https://github.com/adarsh7203">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh7203&repo=CF-UpsolveX&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/adarsh7203/CF-UpsolveX">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh7203&repo=CF-UpsolveX&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/adarsh7203">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh7203&repo=Codeforces-Tag-Filter&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/adarsh7203/SkillFolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh7203&repo=SkillFolio&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -244,12 +244,12 @@ Interactive visualization platform with modern UI.
 
 <div align="center">
 
-<a href="https://github.com/adarsh7203">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh7203&repo=Skillfolio&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/adarsh7203/Graphify">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh7203&repo=Graphify&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/adarsh7203">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh7203&repo=Graphify&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/adarsh7203/IET-HRMS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh7203&repo=IET-HRMS&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>

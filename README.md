@@ -60,9 +60,9 @@ public:
 
 🏆 **1246+ Problems Solved**
 
-⭐ **CodeChef 3★** (Highest Rating: **1633**)
+⭐ **CodeChef 3★** 
 
-🟢 **Codeforces Pupil** (Highest Rating: **1312**)
+🟢 **Codeforces Pupil** 
 
 🟠 Active on **LeetCode**
 
@@ -72,49 +72,6 @@ public:
 
 ---
 
-# 🚀 Featured Projects
-
-## ⭐ CF UpsolveX
-
-> Smart upsolving platform for Codeforces users.
-
-### Features
-
-- Personalized Priority Queue
-- Contest Insights
-- Email Reminders
-- Chrome Extension
-- Smart Recommendation Algorithm
-
-**Tech Stack**
-
-`React` `FastAPI` `Supabase`
-
----
-
-## ⭐ IET-HRMS
-
-A modern HR management system developed for institutional use with a responsive interface and backend integration.
-
-`JavaScript`
-
----
-
-## ⭐ Skillfolio
-
-AI-powered resume and portfolio builder.
-
-`React` `FastAPI`
-
----
-
-## ⭐ Graphify
-
-Interactive visualization platform with modern UI.
-
-`React` `FastAPI`
-
----
 
 # 💻 Tech Stack
 

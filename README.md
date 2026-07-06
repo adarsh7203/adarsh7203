@@ -1,7 +1,5 @@
-
-
 <div align="center">
-
+    
 # 👋 Hey, I'm Adarsh Gupta
 
 ### Competitive Programmer • Full-Stack Developer • Building Developer Tools
